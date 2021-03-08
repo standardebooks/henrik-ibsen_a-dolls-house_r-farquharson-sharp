@@ -41,10 +41,11 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="se:subject">Drama</meta>
+		<dc:description id="description">In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In 1870s Norway, Nora Helmer struggles to be her own person within a society and a marriage that limits the opportunities of women. When decisions made to protect her husband come back to haunt her, Nora must fight for her family and for her own place in the world.&lt;/p&gt;
+			&lt;p&gt;Since its first performance, in which every performance of the run was sold out, &lt;i&gt;A Doll's House&lt;/i&gt; has inspired admiration, controversy, and discussion. &lt;a href="https://standardebooks.org/ebooks/henrik-ibsen"&gt;Ibsen&lt;/a&gt; pioneered realistic depictions of middle class families and social themes, and &lt;i&gt;A Doll's House&lt;/i&gt; has had a real lasting impact; as recently as 2006, it was the most performed play in the world.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2542</dc:source>
