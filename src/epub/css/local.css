@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/*Default Drama*/
+/* Default Drama */
 [epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
@@ -64,10 +64,9 @@ section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
+/* End Default Drama */
 
-/*End Default Drama*/
-
-/*Dramatis Personae*/
+/* Dramatis Personae */
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
@@ -90,4 +89,4 @@ section[epub|type~="z3998:scene"] > p{
 [epub|type~="z3998:dramatis-personae"] ul + p{
 	margin-top: 2em;
 }
-/*End Dramatis Personae*/
+/* End Dramatis Personae */
