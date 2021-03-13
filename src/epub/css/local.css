@@ -2,8 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Default Drama */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
@@ -41,7 +40,6 @@ table[epub|type~="z3998:drama"]{
 	font-style: italic;
 }
 
-em [epub|type~="z3998:persona"],
 i [epub|type~="z3998:persona"]{
 	font-style: normal;
 }
