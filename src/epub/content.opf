@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henrik-ibsen/a-dolls-house/r-farquharson-sharp</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-15T23:02:19Z</dc:date>
+		<meta property="dcterms:modified">2021-03-15T23:02:19Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,14 +45,15 @@
 		<dc:description id="description">In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In 1870s Norway, Nora Helmer struggles to be her own person within a society and a marriage that limits the opportunities of women. When decisions made to protect her husband come back to haunt her, Nora must fight for her family and for her own place in the world.&lt;/p&gt;
-			&lt;p&gt;Since its first theatrical run, in which every performance was sold out, &lt;i&gt;A Doll’s House&lt;/i&gt; has inspired admiration, controversy, and discussion. First published by &lt;a href="https://standardebooks.org/ebooks/henrik-ibsen"&gt;Ibsen&lt;/a&gt; in 1879 in Danish, the official language of Danish-ruled Norway, &lt;i&gt;A Doll’s House&lt;/i&gt; sold out its first two printings within months. First premiered at the Royal Theatre in Copenhagen within a month of publication, the play was performed in Germany in 1880 and London in 1884. However, intial versions in translation changed the play to be more sympathetic and acceptable, changes Ibsen considered to be “barbaric outrage.” It wouldn’t be until 1889 that the play was performed as written in London and Broadway.&lt;/p&gt;
-			&lt;p&gt;Ibsen’s work pioneered realistic depictions of middle class families and social themes, and he claimed that he did not have feminist intentions in the writing of &lt;i&gt;A Doll’s House&lt;/i&gt;, instead aiming for “the description of humanity.” However, the play is widely considered an essential feminist work and has had a real lasting impact; as recently as 2006, it was the most performed play in the world.&lt;/p&gt;
+			&lt;p&gt;Since its first theatrical run, in which every performance was sold out, &lt;i&gt;A Doll’s House&lt;/i&gt; has inspired admiration, controversy, and discussion. First published by &lt;a href="https://standardebooks.org/ebooks/henrik-ibsen"&gt;Ibsen&lt;/a&gt; in 1879 in Danish, the official language of Danish-ruled Norway, &lt;i&gt;A Doll’s House&lt;/i&gt; sold out its first two printings within months. It first premiered at the Royal Theatre in Copenhagen within a month of publication, and the play was performed in Germany in 1880 and London in 1884.&lt;/p&gt;
+			&lt;p&gt;Intial translations changed the play, particularly the ending, to be more sympathetic and acceptable. Ibsen considered these changes to be a “barbaric outrage.” It wouldn’t be until 1889 that the play was performed as written in London and Broadway.&lt;/p&gt;
+			&lt;p&gt;Ibsen’s work pioneered realistic depictions of middle class families and social themes. He claimed that he didn’t have feminist intentions in the writing of &lt;i&gt;A Doll’s House&lt;/i&gt;, instead aiming for “the description of humanity,” but the play is widely considered an essential feminist work and has had a real lasting impact: as recently as 2006, it was the most performed play in the world.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2542</dc:source>
 		<dc:source>https://archive.org/details/dollshousetwooth00ibseuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">27190</meta>
+		<meta property="se:reading-ease.flesch">86.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Doll%E2%80%99s_House</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henrik-ibsen_a-dolls-house_r-farquharson-sharp</meta>
 		<dc:creator id="author">Henrik Ibsen</dc:creator>
@@ -84,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
