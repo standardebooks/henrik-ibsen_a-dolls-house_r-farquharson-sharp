@@ -43,6 +43,8 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In 1870s Norway, Nora Helmer struggles to be her own person within her marriage and a society that limits the opportunities of women. When decisions made to protect her husband come back to haunt her, Nora must fight for her family and for her own place in the world.&lt;/p&gt;
