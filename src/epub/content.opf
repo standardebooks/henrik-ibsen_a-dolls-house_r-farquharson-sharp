@@ -45,7 +45,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.</dc:abstract>
+		<meta property="schema:abstract">In 1870s Norway, a woman struggles to be herself within the confines of marriage and society.</meta>
 		<dc:description>
 			&lt;p&gt;In 1870s Norway, Nora Helmer struggles to be her own person within her marriage and a society that limits the opportunities of women. When decisions made to protect her husband come back to haunt her, Nora must fight for her family and for her own place in the world.&lt;/p&gt;
 			&lt;p&gt;Since its first theatrical run, in which every performance was sold out, &lt;i&gt;A Doll’s House&lt;/i&gt; has inspired admiration, controversy, and discussion. First published by &lt;a href="https://standardebooks.org/ebooks/henrik-ibsen"&gt;Ibsen&lt;/a&gt; in 1879 in Danish, the official language of Danish-ruled Norway, &lt;i&gt;A Doll’s House&lt;/i&gt; sold out its first two printings within months. It first premiered at the Royal Theatre in Copenhagen within a month of publication, and the play was performed in Germany in 1880 and London in 1884.&lt;/p&gt;
