@@ -30,10 +30,10 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Doll’s House</dc:title>
 		<meta property="file-as" refines="#title">Doll’s House, A</meta>
-		<dc:subject id="subject-1">Marriage -- Drama</dc:subject>
-		<dc:subject id="subject-2">Man-woman relationships -- Drama</dc:subject>
-		<dc:subject id="subject-3">Norwegian drama -- Translations into English</dc:subject>
-		<dc:subject id="subject-4">Wives -- Drama</dc:subject>
+		<dc:subject id="subject-1">Marriage--Drama</dc:subject>
+		<dc:subject id="subject-2">Man-woman relationships--Drama</dc:subject>
+		<dc:subject id="subject-3">Norwegian drama--Translations into English</dc:subject>
+		<dc:subject id="subject-4">Wives--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008107247</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
